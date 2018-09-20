@@ -101,14 +101,6 @@ react-dom@^16.2.0:
     prop-types "^15.6.2"
     schedule "^0.5.0"
 
-react-materialize@^2.4.5:
-  version "2.4.5"
-  resolved "https://registry.yarnpkg.com/react-materialize/-/react-materialize-2.4.5.tgz#69e33c68b2e823051031ee26d9b200bffe86fbcb"
-  dependencies:
-    classnames "^2.2.5"
-    react "^16.2.0"
-    react-dom "^16.2.0"
-
 react-redux@^5.0.7:
   version "5.0.7"
   resolved "https://registry.yarnpkg.com/react-redux/-/react-redux-5.0.7.tgz#0dc1076d9afb4670f993ffaef44b8f8c1155a4c8"
